@@ -5860,8 +5860,12 @@ section.timeline .timeline-box .owl-carousel {
 	background: #1aa9e1;
 }
 
-.social-icons li:hover.social-icons-facebook a {
+.social-icons li:hover.social-icons-vk a {
 	background: #3b5a9a;
+}
+
+.social-icons li:hover.social-icons-inst a {
+	background: #E1306C;
 }
 
 .social-icons li:hover.social-icons-linkedin a {
